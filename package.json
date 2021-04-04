@@ -2,7 +2,7 @@
   "name": "react-with-sql",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8000",
+  "proxy": "http://localhost:3001",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,7 +14,8 @@
     "nodemon": "^2.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^3.4.3",
+    "typescript": "^3.9.7",
     "webpack": "4.42.0"
   },
   "scripts": {

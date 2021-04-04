@@ -1,0 +1,32 @@
+
+> core-js@2.6.11 postinstall C:\Users\oyao\Projects\ReactProjects\react-with-sql\node_modules\babel-runtime\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js on Open Collective or Patreon: [0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://www.patreon.com/zloirock [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+
+> core-js@3.6.5 postinstall C:\Users\oyao\Projects\ReactProjects\react-with-sql\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.6.5 postinstall C:\Users\oyao\Projects\ReactProjects\react-with-sql\node_modules\core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> nodemon@2.0.4 postinstall C:\Users\oyao\Projects\ReactProjects\react-with-sql\node_modules\nodemon
+> node bin/postinstall || exit 0
+
++ typescript@3.9.7
+removed 186 packages, updated 1151 packages and audited 1678 packages in 234.726s
+
+66 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+

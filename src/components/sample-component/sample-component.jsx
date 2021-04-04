@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 function getUsers() {
-  fetch(`/api/users`)
-  .then((response) => response.json())
-  .then(users => console.log(users));
+  fetch(`/api/test`)
+    .then((response) => response.json())
+    .then((users) => console.log(users));
 }
 
 export function SampleComponent() {
